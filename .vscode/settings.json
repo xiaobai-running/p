@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "erum",
+        "GPIO",
+        "GPIOA",
+        "GPIOB",
+        "OLED",
+        "Periph",
+        "Prescaler",
+        "VCOMH"
+    ],
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "oled_font.h": "c",
+        "stm32f10x_tim.h": "c"
+    }
+}
